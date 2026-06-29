@@ -1,0 +1,654 @@
+canonical_identifier: bkk:krp/KR3eo039/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eo039/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 食療方
+  identifiers:
+    krp: KR3eo039
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04310
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo039.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo039_000-jc.yaml, hash: 'sha256:6ee0d03db722faa8f5a4d3962c35d34265e3535fbf697cd996c5600a23a6439c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo039_000-jc.markers.yaml, hash: 'sha256:457f4f27e3f766e6212d99f9d5dacd08e8753007e97fb11b24800777a6538936'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 940
+  label: 第一類植物類食療方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d2
+    span:
+    - body
+    - 9
+    - 50
+  label: 蘿蔔粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d3
+    span:
+    - body
+    - 50
+    - 81
+  label: 小麥粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d4
+    span:
+    - body
+    - 81
+    - 122
+  label: 馬齒菜粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d5
+    span:
+    - body
+    - 122
+    - 196
+  label: 葛粉羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d6
+    span:
+    - body
+    - 196
+    - 255
+  label: 荊芥粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d7
+    span:
+    - body
+    - 255
+    - 329
+  label: 麻子粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d8
+    span:
+    - body
+    - 329
+    - 389
+  label: 惡實菜
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d9
+    span:
+    - body
+    - 389
+    - 432
+  label: 蓮子粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d10
+    span:
+    - body
+    - 432
+    - 469
+  label: 雞頭粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d11
+    span:
+    - body
+    - 469
+    - 504
+  label: 葵菜羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d12
+    span:
+    - body
+    - 504
+    - 550
+  label: 生地黃粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d13
+    span:
+    - body
+    - 550
+    - 610
+  label: 生地黃粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d14
+    span:
+    - body
+    - 610
+    - 647
+  label: 酸棗粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d15
+    span:
+    - body
+    - 647
+    - 692
+  label: 桃仁粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d16
+    span:
+    - body
+    - 692
+    - 747
+  label: 椒面羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d17
+    span:
+    - body
+    - 747
+    - 814
+  label: 蓽茇粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d18
+    span:
+    - body
+    - 814
+    - 863
+  label: 良薑粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d19
+    span:
+    - body
+    - 863
+    - 907
+  label: 吳茱萸粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d2d20
+    span:
+    - body
+    - 907
+    - 940
+  label: 炒黃面
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3.h1s1
+    span:
+    - body
+    - 940
+    - 3430
+  label: 第二類動物類食療方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d2
+    span:
+    - body
+    - 949
+    - 984
+  label: 乳餅面
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d3
+    span:
+    - body
+    - 984
+    - 1081
+  label: 生地黃雞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d4
+    span:
+    - body
+    - 1081
+    - 1187
+  label: 羊密膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d5
+    span:
+    - body
+    - 1187
+    - 1294
+  label: 羊臟羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d6
+    span:
+    - body
+    - 1294
+    - 1361
+  label: 羊骨粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d7
+    span:
+    - body
+    - 1361
+    - 1423
+  label: 羊脊骨羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d8
+    span:
+    - body
+    - 1423
+    - 1510
+  label: 白羊腎羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d9
+    span:
+    - body
+    - 1510
+    - 1582
+  label: 豬腎粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d10
+    span:
+    - body
+    - 1582
+    - 1647
+  label: 枸杞羊腎粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d11
+    span:
+    - body
+    - 1647
+    - 1689
+  label: 鹿腎羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d12
+    span:
+    - body
+    - 1689
+    - 1777
+  label: 羊肉羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d13
+    span:
+    - body
+    - 1777
+    - 1826
+  label: 鹿蹄湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d14
+    span:
+    - body
+    - 1826
+    - 1869
+  label: 鹿角酒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d15
+    span:
+    - body
+    - 1869
+    - 1923
+  label: 黑牛髓煎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d16
+    span:
+    - body
+    - 1923
+    - 2007
+  label: 狐肉湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d17
+    span:
+    - body
+    - 2007
+    - 2075
+  label: 烏雞湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d18
+    span:
+    - body
+    - 2075
+    - 2105
+  label: 醍醐酒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d19
+    span:
+    - body
+    - 2105
+    - 2208
+  label: 山藥飥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d20
+    span:
+    - body
+    - 2208
+    - 2256
+  label: 山藥粥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d21
+    span:
+    - body
+    - 2256
+    - 2344
+  label: 牛肉脯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d22
+    span:
+    - body
+    - 2344
+    - 2418
+  label: 雞頭粉羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d23
+    span:
+    - body
+    - 2418
+    - 2498
+  label: 鯽魚羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d24
+    span:
+    - body
+    - 2498
+    - 2544
+  label: 炙黃雞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d25
+    span:
+    - body
+    - 2544
+    - 2600
+  label: 牛嬭子煎蓽茇法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d26
+    span:
+    - body
+    - 2600
+    - 2656
+  label: 猯肉羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d27
+    span:
+    - body
+    - 2656
+    - 2694
+  label: 黃雌雞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d28
+    span:
+    - body
+    - 2694
+    - 2738
+  label: 青鴨羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d29
+    span:
+    - body
+    - 2738
+    - 2772
+  label: 野雞羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d30
+    span:
+    - body
+    - 2772
+    - 2807
+  label: 鵓鴿羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d31
+    span:
+    - body
+    - 2807
+    - 2839
+  label: 雞子黃
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d32
+    span:
+    - body
+    - 2839
+    - 2895
+  label: 鯉魚湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d33
+    span:
+    - body
+    - 2895
+    - 2934
+  label: 驢頭羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d34
+    span:
+    - body
+    - 2934
+    - 2975
+  label: 驢肉湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d35
+    span:
+    - body
+    - 2975
+    - 3023
+  label: 狐肉羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d36
+    span:
+    - body
+    - 3023
+    - 3063
+  label: 熊肉羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d37
+    span:
+    - body
+    - 3063
+    - 3134
+  label: 烏雞酒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d38
+    span:
+    - body
+    - 3134
+    - 3204
+  label: 羊肚羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d39
+    span:
+    - body
+    - 3204
+    - 3262
+  label: 烏驢皮湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d40
+    span:
+    - body
+    - 3262
+    - 3306
+  label: 羊頭膾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d41
+    span:
+    - body
+    - 3306
+    - 3346
+  label: 野豬臛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d42
+    span:
+    - body
+    - 3346
+    - 3374
+  label: 獺肝羹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo039_jc_000-d3d43
+    span:
+    - body
+    - 3374
+    - 3430
+  label: 鯽魚羹
+  type: section
+  level: 2
+hash: sha256:6bc771a4a17a0363b5f06ed8ad6dcb435152d8219060facd4ba9e34a556f7b9e
