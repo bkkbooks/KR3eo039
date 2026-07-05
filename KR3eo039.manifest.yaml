@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo039_000.yaml, hash: 'sha256:1c49e7de557ecffcc6f3e5863a515697adb2afeaaf1ff7ce126233ba264a3e75'}
+  - {seq: 0, filename: KR3eo039_000.yaml, hash: 'sha256:6ee0d03db722faa8f5a4d3962c35d34265e3535fbf697cd996c5600a23a6439c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo039_000.markers.yaml, hash: 'sha256:5afa234447fe44001297e456e7b5e77edd5f726fe61931d2cc0141ee0efdb612'}
+  - {seq: 0, role: markers, filename: assets/KR3eo039_000.markers.yaml, hash: 'sha256:d49bfabe8f9d57c5b63ad62a7da814d7505fb5c44d78d56af930eaf7a742aa68'}
 table_of_contents:
 - ref:
     seq: 0
@@ -651,7 +651,4 @@ table_of_contents:
   label: 鯽魚羹
   type: section
   level: 2
-hash: sha256:6f9a47848e23bb893e3c6fc4f48c84d90caa0626da4849ebcc69f4214bfc1cbc
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7afc64efc6abc98a3682086f3ceb1fc0d830de4b41aac7afd820c3f3511a7b60
